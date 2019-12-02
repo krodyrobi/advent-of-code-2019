@@ -1,7 +1,7 @@
 object Main {}
 
 fun main() {
-    val input = Main.javaClass.getResource("01").readText()
-    print(day01(input))
+    val input = Main.javaClass.getResource("02").readText()
+    print(day02(input))
 }
 
